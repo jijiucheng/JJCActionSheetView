@@ -13,7 +13,7 @@
 		415DBD051F0F290200D7DCFF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 415DBD031F0F290200D7DCFF /* Main.storyboard */; };
 		415DBD071F0F290200D7DCFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 415DBD061F0F290200D7DCFF /* Assets.xcassets */; };
 		415DBD0A1F0F290200D7DCFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 415DBD081F0F290200D7DCFF /* LaunchScreen.storyboard */; };
-		415DBD161F0F291C00D7DCFF /* JJCActionSheetCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 415DBD131F0F291C00D7DCFF /* JJCActionSheetCell.m */; };
+		415DBD161F0F291C00D7DCFF /* JJCActionSheetCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 415DBD131F0F291C00D7DCFF /* JJCActionSheetCell.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
 		415DBD171F0F291C00D7DCFF /* JJCActionSheetView.m in Sources */ = {isa = PBXBuildFile; fileRef = 415DBD151F0F291C00D7DCFF /* JJCActionSheetView.m */; };
 /* End PBXBuildFile section */
 
@@ -332,6 +332,7 @@
 				415DBD101F0F290200D7DCFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
