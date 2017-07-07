@@ -13,7 +13,7 @@ pod 'JJCActionSheetView'
 <p>
 
 ## Demo
-![演示文稿](https://https://github.com/jijiucheng/JJCActionSheetView/JJCActionSheetViewDemo/JJCActionSheetViewDemo/JJCActionSheetViewGIF.gif)
+![demo](https://https://github.com/jijiucheng/JJCActionSheetView/JJCActionSheetViewDemo/JJCActionSheetViewDemo/JJCActionSheetViewGIF.gif)
 
 
 
