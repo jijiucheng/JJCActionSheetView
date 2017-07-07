@@ -2,11 +2,11 @@
 
 <p>
 
-#### Note
+## Note
 iOS 底部弹框，选择框
 <p>
 
-#### Use
+## Use
 ```
 pod 'JJCActionSheetView'
 ```
