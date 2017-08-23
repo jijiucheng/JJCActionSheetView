@@ -12,8 +12,8 @@ pod 'JJCActionSheetView'
 ```
 <p>
 
-## Demo
-![demo](https://https://github.com/jijiucheng/JJCActionSheetView/JJCActionSheetViewDemo/JJCActionSheetViewDemo/JJCActionSheetViewGIF.gif)
+## 演示GIF
+![演示GIF](JJCActionSheetViewDemo/JJCActionSheetViewDemo/JJCActionSheetViewGIF.gif)
 
 
 
